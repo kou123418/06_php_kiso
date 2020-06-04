@@ -1,0 +1,96 @@
+/* //index.phpの分 */
+body{
+    width:700px;
+    margin: 0 auto;
+}
+
+.header{
+    font-size: 30px;
+}
+.main{
+    padding-left: 15px;
+    padding-top: 15px;
+    background-color:#FFAD90;
+    font-family: Arial;
+}
+
+.top-content1{
+    font-size: 18px;
+}
+.form p{
+    font-size: 20px;
+}
+
+input.form0{
+    height: 30px;
+}
+input.form-email{
+    height: 30px;
+    width: 350px;
+}
+
+textarea::placeholder{
+    font-size: 20px;
+    font-family: Arial;
+}
+
+.btn-sub{
+    color: white;
+    border: solid 2px #5abffd;
+    border-radius: 3px;
+    display: block;
+    margin-top: 10px;
+    width:100px;
+    height:30px;
+    font-size: 20px;
+    font-family: arial;
+    text-emphasis: center;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.btn-sub:hover{
+    background: #5abffd;
+    color: white;
+}
+
+textarea{
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* 他のファイル */
+/* post_confirm.phpのCSS */
+
+#submit1{
+    height: 30px;
+    background-color: #5abffd;
+    border-radius: 5px;
+}
+
+#back{
+    background-color: #5abffd;
+    height:30px;
+}
+.button{
+    margin-top: 20px;
+}
+
+/* 最後の受け取り完了ページ */
+.btn-sub1{
+    color: white;
+    border: solid 2px #5abffd;
+    border-radius: 3px;
+    display: block;
+    margin-top: 10px;
+    width:200px;
+    height:30px;
+    font-size: 20px;
+    font-family: arial;
+    text-emphasis: center;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+.btn-sub1:hover{
+    background: #5abffd;
+    color: white;
+}
